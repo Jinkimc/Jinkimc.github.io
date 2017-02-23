@@ -8,7 +8,7 @@
 
 /* unvisited link */
 
-a:link {
+a:unvisited {
 
     color: blue;
 
