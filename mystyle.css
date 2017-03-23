@@ -17,3 +17,6 @@ a:hover {
 a:active {
     color: blue;
 }
+body {
+    background-color: powderblue;
+}
