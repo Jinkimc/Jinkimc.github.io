@@ -3,8 +3,8 @@
 body {background-color: powderblue;}
 
 h1 {
-    color: Dark Blue;
-    font-family: Arial Black;
+    color: darkblue;
+    font-family: ArialBlack;
     font-size: 300%;
 }
 h2 {
@@ -13,7 +13,7 @@ h2 {
     font-size: 300%;
 }
 p  {
-    color: Dark Blue;
+    color: darkblue;
     font-family: Times New Romans;
     font-size: 200%;
 }
