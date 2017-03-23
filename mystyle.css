@@ -2,8 +2,9 @@
 
 <html>
 
-<head>
 
+
+<body style="background-color:rgb(35,41,98);">
 <style>
 
 /* unvisited link */
@@ -18,10 +19,10 @@ a:hover {color: green;}
 /* selected link */
 a:active {color: yellow;}
 
-<body style="background-color:rgb(35,41,98);">
+
 
 </style>
 
-</head>
+
 
 </html>
