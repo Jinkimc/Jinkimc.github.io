@@ -2,17 +2,7 @@
     
 body {background-color:"rgb(35,41,98)";
 }
-/* unvisited link */
-a:link {color: blue;}
 
-/* visited link */
-a:visited {color: red;}
-
-/* mouse over link */
-a:hover {color: yellow;}
-
-/* selected link */
-a:active {color: orange;}
 
 
 
