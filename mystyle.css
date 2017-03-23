@@ -7,47 +7,21 @@
 <style>
 
 /* unvisited link */
-
-a:link {
-
-    color: blue;
-
-}
-
-
+a:link {color: blue;}
 
 /* visited link */
-
-a:visited {
-
-    color: red;
-
-}
-
-
+a:visited {color: red;}
 
 /* mouse over link */
-
-a:hover {
-
-    color: green;
-
-}
-
-
+a:hover {color: green;}
 
 /* selected link */
+a:active {color: yellow;}
 
-a:active {
-
-    color: yellow;
-
-}
+<body style="background-color:rgb(35,41,98);">
 
 </style>
 
 </head>
-
-
 
 </html>
