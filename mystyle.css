@@ -3,9 +3,12 @@
 <html>
 
 
-
-<body style="background-color:rgb(35,41,98);">
 <style>
+
+body {background-color: rgb(35,41,98);} 
+
+
+
 
 /* unvisited link */
 a:link {color: blue;}
