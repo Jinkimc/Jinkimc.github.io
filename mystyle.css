@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 
 <html>
 
@@ -8,19 +8,19 @@
 
 <style>
 body {
-    background-color:lightblue;
+    background-color:rgb(35,41,98);
 }
 /* unvisited link */
-a:link {color: blue;}
+a:link {color: green;}
 
 /* visited link */
-a:visited {color: red;}
+a:visited {color: yellow;}
 
 /* mouse over link */
-a:hover {color: green;}
+a:hover {color: red;}
 
 /* selected link */
-a:active {color: yellow;}
+a:active {color: orange;}
 
 
 
