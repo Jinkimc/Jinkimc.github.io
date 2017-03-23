@@ -1,19 +1,18 @@
 
-
 body {background-color: powderblue;}
 
 h1 {
-    color: darkblue;
-    font-family: ArialBlack;
-    font-size: 300%;
+    color:blue;
+    font-family: Verdana;
+    font-size: 600%;
 }
 h2 {
-    color: ;
+    color:blue;
     font-family: Verdana;
     font-size: 300%;
 }
 p  {
-    color: darkblue;
+    color: red;
     font-family: Times New Romans;
     font-size: 200%;
 }
