@@ -1,9 +1,9 @@
 
 body {background-color: powderblue;}
 
-h1 {color: blue; font-family: Verdana; font-size: 600%;}
-h2 {color: blue; font-family: Verdana; font-size: 300%;}
-p  {color: red; font-family: Times New Romans; font-size: 200%;}
+h1 {color: darkblue; font-family: ArialBlack; font-size: 300%;}
+h2 {color: darkblue; font-family: Verdana; font-size: 200%;}
+p  {color: red; font-family: TimesNewRomans; font-size: 200%;}
 
 
 /* unvisited link */
